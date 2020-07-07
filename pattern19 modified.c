@@ -38,6 +38,6 @@ int main()
 		}
 		printf("\n");
 		}
-	//By Soumyadeep
+	//Soumyadeep
 	}
 	
